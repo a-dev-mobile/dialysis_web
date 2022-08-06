@@ -26600,7 +26600,7 @@ case 4:return A.HT()
 case 1:return A.HU(m)}}},e)},
 aDA(){return B.a80.ai2(null,18,B.dy,1.25)},
 aYH(){return B.MO},
-aQa(){A.aBh("http://127.0.0.1:81",A.b6e(),B.MJ,A.aYH(),!0)},
+aQa(){A.aBh("http://91.223.70.5:81",A.b6e(),B.MJ,A.aYH(),!0)},
 b80(a,b,c,d,e,f,g,h,i){return A.Lf(firebase_core.initializeApp({apiKey:a,authDomain:c,databaseURL:d,projectId:h,storageBucket:i,messagingSenderId:f,measurementId:e,appId:b},"[DEFAULT]"))},
 b73(a){var s,r,q
 if("toDateString" in a)try{s=a
@@ -90092,7 +90092,7 @@ B.MG=new A.uI(null)
 B.MH=new A.uJ(0,"noOpinion")
 B.MI=new A.uJ(1,"enabled")
 B.js=new A.uJ(2,"disabled")
-B.MJ=new A.PG(0,"dev")
+B.MJ=new A.PG(2,"stg")
 B.b1=new A.WS(B.fq)
 B.MK=new A.abN("flutter_keyboard_visibility")
 B.ML=new A.BN(null,null,null,null,null,null,null,null,null)
@@ -90103,7 +90103,7 @@ B.MM=new A.q7(1,"low")
 B.fE=new A.q7(2,"medium")
 B.fF=new A.q7(3,"high")
 B.MN=new A.BP(null)
-B.MO=new A.v2("AIzaSyAhi0ZZfi1wvkatJze9s3TMCPeIOqR5ZQg","1:566788319369:web:01171271d22d56b2e8be58","566788319369","dev--dialysis","dev--dialysis.firebaseapp.com","https://dev--dialysis-default-rtdb.europe-west1.firebasedatabase.app","dev--dialysis.appspot.com","G-Q81YBPDLQ0",null,null,null,null,null,null)
+B.MO=new A.v2("AIzaSyAm_KnX_aKQeyHrFmTpCLgvT_wR0P3pOoU","1:911489430730:web:bb66a559faeb5b7404f033","911489430730","stg-dialysis-96c17","stg-dialysis-96c17.firebaseapp.com",null,"stg-dialysis-96c17.appspot.com","G-MCS2WSSY8K",null,null,null,null,null,null)
 B.t=new A.a1(0,0)
 B.MP=new A.Q0(B.t,B.t)
 B.qu=new A.BY(0,"tight")
