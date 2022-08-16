@@ -47774,7 +47774,7 @@ vQ(a){return this.Xk(a)},
 Xk(a){var s=0,r=A.K(t.p0),q,p=this,o,n,m,l,k,j
 var $async$vQ=A.L(function(b,c){if(b===1)return A.H(c,r)
 while(true)switch(s){case 0:s=3
-return A.M(p.a.v7(0,"/product_search",B.a2y,A.av(["find",a],t.N,t.z)),$async$vQ)
+return A.M(p.a.v7(0,"/v2/product_search",B.a2y,A.av(["find",a],t.N,t.z)),$async$vQ)
 case 3:l=c
 k=A.a([],t.Rz)
 j=t.j.a(l.a)
