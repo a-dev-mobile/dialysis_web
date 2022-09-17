@@ -49276,7 +49276,7 @@ A.q4.prototype={
 j(a){return"ValidNameError."+this.b}}
 A.qN.prototype={}
 A.ZN.prototype={
-XQ(){return new A.zZ(new A.vE("SELECT name FROM food LIMIT 50",A.a([],t.L5),this.gWK()),new A.ax_(),t.Jd.h("zZ<nj.T,h?>"))}}
+XQ(){return new A.zZ(new A.vE("SELECT name FROM food",A.a([],t.L5),this.gWK()),new A.ax_(),t.Jd.h("zZ<nj.T,h?>"))}}
 A.ax_.prototype={
 $1(a){var s,r=t.N,q=J.aL($.aWD(),A.bj(r))
 if(q==null)A.L(A.b0("Could not find a matching SQL type for "+A.bj(r).j(0),null))
